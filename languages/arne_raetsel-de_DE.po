@@ -1,0 +1,2688 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Arnes GW2-Riddle\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/arne_raetsel\n"
+"POT-Creation-Date: 2013-07-24 13:30:53+00:00\n"
+"PO-Revision-Date: 2013-08-28 08:19+0100\n"
+"Last-Translator: \n"
+"Language-Team: Arne\n"
+"Language: German\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: arne_raetsel.php:29
+msgid "Black Citadel"
+msgstr "Schwarze Zitadelle"
+
+#: arne_raetsel.php:29 arne_raetsel.php:30 arne_raetsel.php:35
+#: arne_raetsel.php:38 arne_raetsel.php:39 arne_raetsel.php:44
+#: arne_raetsel.php:51
+msgid "Ascalon"
+msgstr "Ascalon"
+
+#: arne_raetsel.php:29
+msgid "Bane Waypoint"
+msgstr "Fluch"
+
+#: arne_raetsel.php:29
+msgid "Diessa Gate Waypoint"
+msgstr "Diessa-Tor"
+
+#: arne_raetsel.php:29
+msgid "Factorium Waypoint"
+msgstr "Kanton Factorium"
+
+#: arne_raetsel.php:29
+msgid "Gladium Waypoint"
+msgstr "Gladiumkanton"
+
+#: arne_raetsel.php:29
+msgid "Hero's Waypoint"
+msgstr "Heldenkanton"
+
+#: arne_raetsel.php:29
+msgid "Imperator's Waypoint"
+msgstr "Wegmarke des Imperators"
+
+#: arne_raetsel.php:29
+msgid "Junker's Waypoint"
+msgstr "Schrottwagen"
+
+#: arne_raetsel.php:29
+msgid "Ligacus Aquilo Waypoint"
+msgstr "Asura-Tor"
+
+#: arne_raetsel.php:29
+msgid "Memorial Waypoint"
+msgstr "Denkmal"
+
+#: arne_raetsel.php:29
+msgid "Mustering Ground Waypoint"
+msgstr "Mustergründe"
+
+#: arne_raetsel.php:29
+msgid "Ruins of Rin Waypoint"
+msgstr "Ruinen von Rin"
+
+#: arne_raetsel.php:30
+msgid "Blazeridge Steppes"
+msgstr "Flammenkamm-Steppe"
+
+#: arne_raetsel.php:30
+msgid "Behem Waypoint"
+msgstr "Behem"
+
+#: arne_raetsel.php:30
+msgid "Brandview Waypoint"
+msgstr "Brandblick"
+
+#: arne_raetsel.php:30
+msgid "Brokentooth Waypoint"
+msgstr "Bruchzahn"
+
+#: arne_raetsel.php:30
+msgid "Expanse Waypoint"
+msgstr "Weite"
+
+#: arne_raetsel.php:30
+msgid "Gastor Gullet Waypoint"
+msgstr "Gastor-Schlund"
+
+#: arne_raetsel.php:30
+msgid "Guardian Stone Waypoint"
+msgstr "Wächterstein"
+
+#: arne_raetsel.php:30
+msgid "Kinar Fort Waypoint"
+msgstr "Kinar-Fort"
+
+#: arne_raetsel.php:30
+msgid "Kindling Waypoint"
+msgstr "Kienspan"
+
+#: arne_raetsel.php:30
+msgid "Lowland Burns Waypoint"
+msgstr "Tiefland-Brand"
+
+#: arne_raetsel.php:30
+msgid "Lunk Kraal Waypoint"
+msgstr "Lunk-Kral"
+
+#: arne_raetsel.php:30
+msgid "Refuge Sanctum Waypoint"
+msgstr "Zufluchtsrefugium"
+
+#: arne_raetsel.php:30
+msgid "Soot Road Waypoint"
+msgstr "Rußstraße"
+
+#: arne_raetsel.php:30
+msgid "Splintercrest Fort Waypoint"
+msgstr "Splitterkamm-Fort"
+
+#: arne_raetsel.php:30
+msgid "Steeleye Waypoint"
+msgstr "Stahlauge"
+
+#: arne_raetsel.php:30
+msgid "Terra Carorunda Waypoint"
+msgstr "Terra Carborunda"
+
+#: arne_raetsel.php:30
+msgid "The Last Whiskey Bar Waypoint"
+msgstr "Bar Zum Letzten Whiskey"
+
+#: arne_raetsel.php:30
+msgid "Tumok's Waypoint"
+msgstr "Tumok"
+
+#: arne_raetsel.php:30
+msgid "Twin Sisters Waypoint"
+msgstr "Zwilingsschwestern"
+
+#: arne_raetsel.php:31
+msgid "Bloodtide Coast"
+msgstr "Blutstrom-Küste"
+
+#: arne_raetsel.php:31 arne_raetsel.php:36 arne_raetsel.php:41
+#: arne_raetsel.php:42 arne_raetsel.php:45 arne_raetsel.php:46
+#: arne_raetsel.php:52 arne_raetsel.php:55
+msgid "Kryta"
+msgstr "Kryta"
+
+#: arne_raetsel.php:31
+msgid "Archen Foreland Waypoint"
+msgstr "Archen-Vorland"
+
+#: arne_raetsel.php:31
+msgid "Barrier Camp Waypoint"
+msgstr "Grenzlager"
+
+#: arne_raetsel.php:31
+msgid "Bogside Camp Waypoint"
+msgstr "Sumpfufer-Lager"
+
+#: arne_raetsel.php:31
+msgid "Castavall Waypoint"
+msgstr "Castavall"
+
+#: arne_raetsel.php:31
+msgid "Deadend Waypoint"
+msgstr "Sackgasse"
+
+#: arne_raetsel.php:31
+msgid "Firthside Vigil Waypoint"
+msgstr "Wachsame des Förde"
+
+#: arne_raetsel.php:31
+msgid "Jelako Waypoint"
+msgstr "Jelako"
+
+#: arne_raetsel.php:31
+msgid "Laughing Gull Waypoint"
+msgstr "Kichermöve"
+
+#: arne_raetsel.php:31
+msgid "Lostwreck Waypoint"
+msgstr "Verlorenes Wrack"
+
+#: arne_raetsel.php:31
+msgid "Marshwatch Haven Waypoint"
+msgstr "Marschenwacht-Hafen"
+
+#: arne_raetsel.php:31
+msgid "Mournful Waypoint"
+msgstr "Wehklage"
+
+#: arne_raetsel.php:31
+msgid "Remanda Waypoint"
+msgstr "Remanda"
+
+#: arne_raetsel.php:31
+msgid "Sorrowful Waypoint"
+msgstr "Sorge"
+
+#: arne_raetsel.php:31
+msgid "Stormbluff Waypoint"
+msgstr "Sturmklippe"
+
+#: arne_raetsel.php:31
+msgid "Whisperwill Waypoint"
+msgstr "Flüsterwill"
+
+#: arne_raetsel.php:32
+msgid "Brisban Wildlands"
+msgstr "Brisban-Wildnis"
+
+#: arne_raetsel.php:32 arne_raetsel.php:33 arne_raetsel.php:49
+#: arne_raetsel.php:50 arne_raetsel.php:53 arne_raetsel.php:56
+#: arne_raetsel.php:58
+msgid "Maguuma Jungle"
+msgstr "Maguuma-Dschungel"
+
+#: arne_raetsel.php:32
+msgid "Brilitine Waypoint"
+msgstr "Brilitine"
+
+#: arne_raetsel.php:32
+msgid "East End Waypoint"
+msgstr "Östliches Ende"
+
+#: arne_raetsel.php:32
+msgid "Gallowfields Waypoint"
+msgstr "Spukfelder"
+
+#: arne_raetsel.php:32
+msgid "Hillstead Waypoint"
+msgstr "Hügelstatt"
+
+#: arne_raetsel.php:32
+msgid "Mirkrise Waypoint"
+msgstr "Düsterhöhe"
+
+#: arne_raetsel.php:32
+msgid "Mrot Boru Waypoint"
+msgstr "Mrot Boru"
+
+#: arne_raetsel.php:32
+msgid "Proxemics Lab Waypoint"
+msgstr "Proxemik-Labor"
+
+#: arne_raetsel.php:32
+msgid "Seraph Observers Waypoint"
+msgstr "Seraphen-Beobachter"
+
+#: arne_raetsel.php:32
+msgid "Triforge Point Waypoint"
+msgstr "Trischmiede"
+
+#: arne_raetsel.php:32
+msgid "Tunnels Waypoint"
+msgstr "Tunnel"
+
+#: arne_raetsel.php:32
+msgid "Ulta Metamagicals Waypoint"
+msgstr "Ulta Metamagikale"
+
+#: arne_raetsel.php:32
+msgid "Watchful Source Waypoint"
+msgstr "Wachsame Quelle"
+
+#: arne_raetsel.php:32
+msgid "Wendon Waypoint"
+msgstr "Wendon"
+
+#: arne_raetsel.php:33
+msgid "Caledon Forest"
+msgstr "Caledon-Wald"
+
+#: arne_raetsel.php:33
+msgid "Astorea Waypoint"
+msgstr "Astorea"
+
+#: arne_raetsel.php:33
+msgid "Brigid's Overlook Waypoint"
+msgstr "Brigids Aussichtspunkt"
+
+#: arne_raetsel.php:33
+msgid "Caer Astorea Waypoint"
+msgstr "Kastell Astorea"
+
+#: arne_raetsel.php:33
+msgid "Caledon Haven Waypoint"
+msgstr "Caledon-Freistatt"
+
+#: arne_raetsel.php:33
+msgid "Falias Thorpe Waypoint"
+msgstr "Falias-Dorf"
+
+#: arne_raetsel.php:33
+msgid "Gleaner's Cove Waypoint"
+msgstr "Ährenleser-Bucht"
+
+#: arne_raetsel.php:33
+msgid "Hamlet of Annwen Waypoint"
+msgstr "Annwen"
+
+#: arne_raetsel.php:33
+msgid "Kraitbane Haven Waypoint"
+msgstr "Kraitbann-Freistatt"
+
+#: arne_raetsel.php:33
+msgid "Lionguard Waystation Waypoint"
+msgstr "Wegstation der Löwengarde"
+
+#: arne_raetsel.php:33
+msgid "Mabon Waypoint"
+msgstr "Mabon-Markt"
+
+#: arne_raetsel.php:33
+msgid "Sleive's Waypoint"
+msgstr "Sleive"
+
+#: arne_raetsel.php:33
+msgid "Sperrins Waypoint"
+msgstr "Glencarn Sperrins"
+
+#: arne_raetsel.php:33
+msgid "Spiral Waypoint"
+msgstr "Morgan-Spirale"
+
+#: arne_raetsel.php:33
+msgid "Titan's Staircase Waypoint"
+msgstr "Titanentreppe"
+
+#: arne_raetsel.php:33
+msgid "Town of Cathal Waypoint"
+msgstr "Cathal"
+
+#: arne_raetsel.php:33
+msgid "Twilight Arbor Waypoint"
+msgstr "Zwielichtgarten"
+
+#: arne_raetsel.php:33
+msgid "Wardenhurst Waypoint"
+msgstr "Wächterwäldchen"
+
+#: arne_raetsel.php:33
+msgid "Wychmire Waypoint"
+msgstr "Wychmire-Sumpf"
+
+#: arne_raetsel.php:34
+msgid "Cursed Shore"
+msgstr "Fluchküste"
+
+#: arne_raetsel.php:34 arne_raetsel.php:48 arne_raetsel.php:57
+msgid "Ruins of Orr"
+msgstr "Ruinen von Orr"
+
+#: arne_raetsel.php:34
+msgid "Anchorage Waypoint"
+msgstr "Wasserläufer-Ankerplatz"
+
+#: arne_raetsel.php:34
+msgid "Arah Waypoint"
+msgstr "Arah"
+
+#: arne_raetsel.php:34
+msgid "Caer Shadowfain Waypoint"
+msgstr "Kastell Schattenlieb"
+
+#: arne_raetsel.php:34
+msgid "Gavbeorn's Waypoint"
+msgstr "Gavbeorns Anlegestelle"
+
+#: arne_raetsel.php:34
+msgid "Jofast's Waypoint"
+msgstr "Jofasts Wegmarke"
+
+#: arne_raetsel.php:34
+msgid "Meddler's Waypoint"
+msgstr "Wichtigtuergipfel"
+
+#: arne_raetsel.php:34
+msgid "Murdered Dreams Waypoint"
+msgstr "Altar der ermordeten Träume"
+
+#: arne_raetsel.php:34
+msgid "Penitent Waypoint"
+msgstr "Bußfertige Wegmarke"
+
+#: arne_raetsel.php:34
+msgid "Pursuit Pass Waypoint"
+msgstr "Folgepass"
+
+#: arne_raetsel.php:34
+msgid "R&D Waypoint"
+msgstr "R&D"
+
+#: arne_raetsel.php:34
+msgid "Shelter's Gate Waypoint"
+msgstr "Zufluchtstor"
+
+#: arne_raetsel.php:34
+msgid "Shipwreck Rock Waypoint"
+msgstr "Schiffswrackfelsen"
+
+#: arne_raetsel.php:34
+msgid "Verdance Waypoint"
+msgstr "grüne Kathedrale"
+
+#: arne_raetsel.php:35
+msgid "Diessa Plateau"
+msgstr "Diessa-Plateau"
+
+#: arne_raetsel.php:35
+msgid "Blackblade Waypoint"
+msgstr "Schwarzklinge"
+
+#: arne_raetsel.php:35
+msgid "Blasted Moors Waypoint"
+msgstr "Verdammnismauern"
+
+#: arne_raetsel.php:35
+msgid "Bloodcliff Waypoint"
+msgstr "Blutklippen-Steinbruch"
+
+#: arne_raetsel.php:35
+msgid "Bloodsaw Mill Waypoint"
+msgstr "Blutsägen-Mühle"
+
+#: arne_raetsel.php:35
+msgid "Breached Wall Waypoint"
+msgstr "Bruchwall"
+
+#: arne_raetsel.php:35
+msgid "Breachwater Waypoint"
+msgstr "Bruchwassersee"
+
+#: arne_raetsel.php:35
+msgid "Butcher's Block Waypoint"
+msgstr "Schlachterblock"
+
+#: arne_raetsel.php:35
+msgid "Charradis Estate Waypoint"
+msgstr "Bovarin-Anwesen"
+
+#: arne_raetsel.php:35
+msgid "Charrgate Haven Waypoint"
+msgstr "Charrtor-Freistatt"
+
+#: arne_raetsel.php:35
+msgid "Dawnright Estate Waypoint"
+msgstr "Morgenrecht-Anwesen"
+
+#: arne_raetsel.php:35
+msgid "Font of Rhand Waypoint"
+msgstr "Schwarzklingensee"
+
+#: arne_raetsel.php:35
+msgid "Incendio Waypoint"
+msgstr "Incendio Templum"
+
+#: arne_raetsel.php:35
+msgid "Manbane's Waypoint"
+msgstr "Manbanes Felsaufschluss"
+
+#: arne_raetsel.php:35
+msgid "Nageling Waypoint"
+msgstr "Nageling"
+
+#: arne_raetsel.php:35
+msgid "Nemus Grove Waypoint"
+msgstr "Nemushain"
+
+#: arne_raetsel.php:35
+msgid "Nolan Waypoint"
+msgstr "Nolan"
+
+#: arne_raetsel.php:35
+msgid "Oldgate Waypoint"
+msgstr "Ruinen von Alttor"
+
+#: arne_raetsel.php:35
+msgid "Redreave Mill Waypoint"
+msgstr "Rotraub-Mühle"
+
+#: arne_raetsel.php:35
+msgid "Sanctum Waypoint"
+msgstr "Sanctum"
+
+#: arne_raetsel.php:36
+msgid "Divinity's Reach"
+msgstr "Götterfels"
+
+#: arne_raetsel.php:36
+msgid "Balthazar Waypoint"
+msgstr "Balthasar"
+
+#: arne_raetsel.php:36
+msgid "Collapse Waypoint"
+msgstr "Einsturzkrater"
+
+#: arne_raetsel.php:36
+msgid "Commons Waypoint"
+msgstr "Marktviertel"
+
+#: arne_raetsel.php:36
+msgid "Dwayna Waypoint"
+msgstr "Dwayna"
+
+#: arne_raetsel.php:36
+msgid "Grenth Waypoint"
+msgstr "Grenth"
+
+#: arne_raetsel.php:36
+msgid "Kormir Waypoint"
+msgstr "Kormir"
+
+#: arne_raetsel.php:36 arne_raetsel.php:48
+msgid "Lyssa Waypoint"
+msgstr "Lyssa"
+
+#: arne_raetsel.php:36
+msgid "Melandru Waypoint"
+msgstr "Melandru"
+
+#: arne_raetsel.php:36
+msgid "Ministers Waypoint"
+msgstr "Minister"
+
+#: arne_raetsel.php:36
+msgid "Ossan Waypoint"
+msgstr "Ossa"
+
+#: arne_raetsel.php:36
+msgid "Palace Waypoint"
+msgstr "Palast"
+
+#: arne_raetsel.php:36
+msgid "Rurikton Waypoint"
+msgstr "Rurickstadt"
+
+#: arne_raetsel.php:36
+msgid "Salma Waypoint"
+msgstr "Salma"
+
+#: arne_raetsel.php:37
+msgid "Dredgehaunt Cliffs"
+msgstr "Schauflerschreck-Klippen"
+
+#: arne_raetsel.php:37 arne_raetsel.php:40 arne_raetsel.php:43
+#: arne_raetsel.php:47 arne_raetsel.php:54 arne_raetsel.php:59
+#: arne_raetsel.php:60
+msgid "Shiverpeak Mountains"
+msgstr "Zittergipfel-Gebirge"
+
+#: arne_raetsel.php:37
+msgid "Dociu Waypoint"
+msgstr "Dociu-Ausgrabungen"
+
+#: arne_raetsel.php:37
+msgid "Frostland Waypoint"
+msgstr "Frostlandschmelze"
+
+#: arne_raetsel.php:37
+msgid "Granite Citadel Waypoint"
+msgstr "Granitzitadelle"
+
+#: arne_raetsel.php:37
+msgid "Graupel Waypoint"
+msgstr "Graupel-Kohn"
+
+#: arne_raetsel.php:37
+msgid "Grey Road Waypoint"
+msgstr "Graue Straße"
+
+#: arne_raetsel.php:37
+msgid "Havfrue Basin Waypoint"
+msgstr "Havfrue-Becken"
+
+#: arne_raetsel.php:37
+msgid "Hessdallen Kenning Waypoint"
+msgstr "Hessdallen Kenning"
+
+#: arne_raetsel.php:37
+msgid "Kenning Testing Ground"
+msgstr "Kenning-Testgelände"
+
+#: arne_raetsel.php:37
+msgid "Mountain's Tail Waypoint"
+msgstr "Bergende"
+
+#: arne_raetsel.php:37
+msgid "Nottowr Fault Waypoint"
+msgstr "Nottowr-Bruch"
+
+#: arne_raetsel.php:37
+msgid "Seven Pines Waypoint"
+msgstr "Sieben Kiefern"
+
+#: arne_raetsel.php:37
+msgid "Sorrow's Embrace Waypoint"
+msgstr "Umarmung der Betrübnis"
+
+#: arne_raetsel.php:37
+msgid "Steelbrachen Waypoint"
+msgstr "Stahlbrachen"
+
+#: arne_raetsel.php:37
+msgid "Toran Hollow Waypoint"
+msgstr "Toran-Senke"
+
+#: arne_raetsel.php:37
+msgid "Travelen's Waypoint"
+msgstr "Schneesturzschlucht"
+
+#: arne_raetsel.php:37
+msgid "Tribulation Waypoint"
+msgstr "Trübsalriss"
+
+#: arne_raetsel.php:37
+msgid "Wide Expanse Waypoint"
+msgstr "Die weite Schlucht"
+
+#: arne_raetsel.php:37
+msgid "Wyrmblood Waypoint"
+msgstr "Wyrmblut"
+
+#: arne_raetsel.php:38
+msgid "Fields of Ruin"
+msgstr "Felder der Verwüstung"
+
+#: arne_raetsel.php:38
+msgid "Deathblade's Watch Waypoint"
+msgstr "Todesklingenwacht"
+
+#: arne_raetsel.php:38
+msgid "Fallen Angels Garrison Waypoint"
+msgstr "Festung der gefallenen Engel"
+
+#: arne_raetsel.php:38
+msgid "Fangfury Watch Waypoint"
+msgstr "Fangzornwacht"
+
+#: arne_raetsel.php:38
+msgid "Forlorn Gate Waypoint"
+msgstr "verlorenes Tor"
+
+#: arne_raetsel.php:38
+msgid "Hawkgates Waypoint"
+msgstr "Die Falkentore"
+
+#: arne_raetsel.php:38
+msgid "Helliot Mine Waypoint"
+msgstr "Helliot-Mine"
+
+#: arne_raetsel.php:38
+msgid "Kestrel Waypoint"
+msgstr "Kestrel"
+
+#: arne_raetsel.php:38
+msgid "Ogre Road Waypoint"
+msgstr "Ogerstraße"
+
+#: arne_raetsel.php:38
+msgid "Rosko's Campsite Waypoint"
+msgstr "Roskos Lager"
+
+#: arne_raetsel.php:38
+msgid "Skoll's Bivouac Waypoint"
+msgstr "Skolls Biwak"
+
+#: arne_raetsel.php:38
+msgid "Spotter's Waypoint"
+msgstr "Aufklärer"
+
+#: arne_raetsel.php:38
+msgid "Summit Waypoint"
+msgstr "Gipfel"
+
+#: arne_raetsel.php:38
+msgid "Tenaebron Waypoint"
+msgstr "Tenaebron-See"
+
+#: arne_raetsel.php:38
+msgid "Thunderbreak Waypoint"
+msgstr "Donnerbruch"
+
+#: arne_raetsel.php:38
+msgid "Tyler's Bivouac Waypoint"
+msgstr "Tylers Biwak"
+
+#: arne_raetsel.php:38
+msgid "Vulture's Waypoint"
+msgstr "Unheilswacht"
+
+#: arne_raetsel.php:38
+msgid "Wreckage of Bloodgorge Watch Waypoint"
+msgstr "Trümmer der Blutschluchtwacht"
+
+#: arne_raetsel.php:39
+msgid "Fireheart Rise"
+msgstr "Feuerherzhügel"
+
+#: arne_raetsel.php:39
+msgid "Apostate Waypoint"
+msgstr "Apostate"
+
+#: arne_raetsel.php:39
+msgid "Breaktooth's Waypoint"
+msgstr "Bruchzahn"
+
+#: arne_raetsel.php:39
+msgid "Forlorn Waypoint"
+msgstr "Verlorener Haufen"
+
+#: arne_raetsel.php:39
+msgid "Havoc Waypoint"
+msgstr "Vernichtung"
+
+#: arne_raetsel.php:39
+msgid "Icespear's Waypoint"
+msgstr "Eisspeer"
+
+#: arne_raetsel.php:39
+msgid "Keeper's Waypoint"
+msgstr "Wächter"
+
+#: arne_raetsel.php:39
+msgid "Pig Iron Waypoint"
+msgstr "Schweineeisen"
+
+#: arne_raetsel.php:39
+msgid "Rustbowl Waypoint"
+msgstr "Rostschale"
+
+#: arne_raetsel.php:39
+msgid "Sati Waypoint"
+msgstr "Sati"
+
+#: arne_raetsel.php:39
+msgid "Senecus Castrum Waypoint"
+msgstr "Senecus Castrum"
+
+#: arne_raetsel.php:39
+msgid "Severed Breach Waypoint"
+msgstr "zerklüftete Bresche"
+
+#: arne_raetsel.php:39
+msgid "Simurgh Waypoint"
+msgstr "Simurgh"
+
+#: arne_raetsel.php:39
+msgid "Snow Ridge Camp Waypoint"
+msgstr "Schneegrat-Lager"
+
+#: arne_raetsel.php:39
+msgid "Switchback Waypoint"
+msgstr "Serpentine"
+
+#: arne_raetsel.php:39
+msgid "The Flame Citadel Waypoint"
+msgstr "Flammenzitadelle"
+
+#: arne_raetsel.php:39
+msgid "Tuyere Command Post Waypoint"
+msgstr "Tuyere-Kommandostelle"
+
+#: arne_raetsel.php:39
+msgid "Vidius Castrum Waypoint"
+msgstr "Vidius Castrum"
+
+#: arne_raetsel.php:39
+msgid "Vorgas Garrison Waypoint"
+msgstr "Vorgas Festung"
+
+#: arne_raetsel.php:40
+msgid "Frostgorge Sound"
+msgstr "Eisklamm-Sund"
+
+#: arne_raetsel.php:40
+msgid "Arundon Waypoint"
+msgstr "Arundon"
+
+#: arne_raetsel.php:40
+msgid "Blue Ice Shining Waypoint"
+msgstr "Blauer Eisglanz"
+
+#: arne_raetsel.php:40
+msgid "Dimotiki Waypoint"
+msgstr "Dimotiki"
+
+#: arne_raetsel.php:40
+msgid "Drakkar Waypoint"
+msgstr "Drakkar"
+
+#: arne_raetsel.php:40
+msgid "Earthshake Waypoint"
+msgstr "Erdbeben"
+
+#: arne_raetsel.php:40
+msgid "Groznev Waypoint"
+msgstr "Groznev"
+
+#: arne_raetsel.php:40
+msgid "Highpeaks Waypoint"
+msgstr "Hochgipfel"
+
+#: arne_raetsel.php:40
+msgid "Honor of the Waves Waypoint"
+msgstr "Zierde der Wogen"
+
+#: arne_raetsel.php:40
+msgid "Ice Floe Waypoint"
+msgstr "Eisscholle"
+
+#: arne_raetsel.php:40
+msgid "Path of Starry Skies Waypoint"
+msgstr "Pfad der Sternenhimmel"
+
+#: arne_raetsel.php:40
+msgid "Ridgerock Camp Waypoint"
+msgstr "Kammfels-Lager"
+
+#: arne_raetsel.php:40
+msgid "Skyheight Steading Waypoint"
+msgstr "Himmelshöh-Gehöft"
+
+#: arne_raetsel.php:40
+msgid "Slough of Despond Waypoint"
+msgstr "Pfuhl der Verzweiflung"
+
+#: arne_raetsel.php:40
+msgid "Twoloop Waypoint"
+msgstr "Zweischlaufen"
+
+#: arne_raetsel.php:40
+msgid "Watchful Waypoint"
+msgstr "Wachsam"
+
+#: arne_raetsel.php:40
+msgid "Yak's Bend Waypoint"
+msgstr "Jakbiegung"
+
+#: arne_raetsel.php:41
+msgid "Gendarran Fields"
+msgstr "Gendarran-Felder"
+
+#: arne_raetsel.php:41
+msgid "Almuten Waypoint"
+msgstr "Almuten-Anwesen"
+
+#: arne_raetsel.php:41
+msgid "Applenook Hamlet Waypoint"
+msgstr "Apfeleck-Weiler"
+
+#: arne_raetsel.php:41
+msgid "Ascalon Settlement Waypoint"
+msgstr "Siedlung Ascalon"
+
+#: arne_raetsel.php:41
+msgid "Blood Hill Waypoint"
+msgstr "Bluthügel-Lager"
+
+#: arne_raetsel.php:41
+msgid "Bloodfields Waypoint"
+msgstr "Blutfelder"
+
+#: arne_raetsel.php:41
+msgid "Brigantine Waypoint"
+msgstr "Brigantine"
+
+#: arne_raetsel.php:41
+msgid "Broadhollow Waypoint"
+msgstr "Weite Schlucht"
+
+#: arne_raetsel.php:41
+msgid "Cornucopian Fields Waypoint"
+msgstr "Füllhorn-Felder"
+
+#: arne_raetsel.php:41
+msgid "First Haven Waypoint"
+msgstr "Erste Freistatt"
+
+#: arne_raetsel.php:41
+msgid "Icegate Waypoint"
+msgstr "Eistor-Schlucht"
+
+#: arne_raetsel.php:41
+msgid "Junction Haven Waypoint"
+msgstr "Hafen der Anbindung"
+
+#: arne_raetsel.php:41
+msgid "Lionbridge Waypoint"
+msgstr "Löwenbrücke"
+
+#: arne_raetsel.php:41
+msgid "Nebo Terrace Waypoint"
+msgstr "Nebo-Terrasse"
+
+#: arne_raetsel.php:41
+msgid "Northfields Waypoint"
+msgstr "Nordfelder"
+
+#: arne_raetsel.php:41
+msgid "Oogooth Waypoint"
+msgstr "Oogooth"
+
+#: arne_raetsel.php:41
+msgid "Provern Shore Waypoint"
+msgstr "Provern-Ufer"
+
+#: arne_raetsel.php:41
+msgid "Snowblind Waypoint"
+msgstr "Schneeblindgipfel"
+
+#: arne_raetsel.php:41
+msgid "Stoneguard Gate Waypoint"
+msgstr "Steinwächtertor"
+
+#: arne_raetsel.php:41
+msgid "Talajian Waypoint"
+msgstr "Talajisches Bergvorland"
+
+#: arne_raetsel.php:41
+msgid "Traveler's Dale Waypoint"
+msgstr "Tal des Reisenden"
+
+#: arne_raetsel.php:41
+msgid "Vigil Keep Waypoint"
+msgstr "Feste der Wachsamen"
+
+#: arne_raetsel.php:41
+msgid "Winter Haven Waypoint"
+msgstr "Winter-Freistatt"
+
+#: arne_raetsel.php:42
+msgid "Harathi Hinterlands"
+msgstr "Harathi-Hinterland"
+
+#: arne_raetsel.php:42
+msgid "Arca Waypoint"
+msgstr "Arca"
+
+#: arne_raetsel.php:42
+msgid "Arcallion Waypoint"
+msgstr "Orientierungspunkt"
+
+#: arne_raetsel.php:42
+msgid "Barricade Camp Waypoint"
+msgstr "Barrikadenlager"
+
+#: arne_raetsel.php:42
+msgid "Bridgewatch Camp Waypoint"
+msgstr "Brückenwachtlager"
+
+#: arne_raetsel.php:42
+msgid "Cloven Hoof Waypoint"
+msgstr "Spalthuf"
+
+#: arne_raetsel.php:42
+msgid "Demetra Waypoint"
+msgstr "Demetra"
+
+#: arne_raetsel.php:42
+msgid "Faun's Waypoint"
+msgstr "Wegmarke Fauns"
+
+#: arne_raetsel.php:42
+msgid "Grey Gritta's Post Waypoint"
+msgstr "Grau-Grittas Posten"
+
+#: arne_raetsel.php:42
+msgid "Junction Camp Waypoint"
+msgstr "Anbindungslager"
+
+#: arne_raetsel.php:42
+msgid "Nightguard Waypoint"
+msgstr "Nachtwache"
+
+#: arne_raetsel.php:42
+msgid "Recovery Camp Waypoint"
+msgstr "Erholungslager"
+
+#: arne_raetsel.php:42
+msgid "Seraph's Landing Waypoint"
+msgstr "Seraphenlände"
+
+#: arne_raetsel.php:42
+msgid "Shieldbluff Waypoint"
+msgstr "Schildklippe"
+
+#: arne_raetsel.php:42
+msgid "Trebusha's Overlook Waypoint"
+msgstr "Trebushas Aussicht"
+
+#: arne_raetsel.php:42
+msgid "Wynchona Rally Point Waypoint"
+msgstr "Wynchona-Sammelpunkt"
+
+#: arne_raetsel.php:43
+msgid "Hoelbrak"
+msgstr "Hoelbrak"
+
+#: arne_raetsel.php:43
+msgid "Bear Waypoint"
+msgstr "Wegmarke der Bärin"
+
+#: arne_raetsel.php:43
+msgid "Eastern Watchpost Waypoint"
+msgstr "Östlicher Wachposten"
+
+#: arne_raetsel.php:43
+msgid "Great Lodge Waypoint"
+msgstr "Große Halle"
+
+#: arne_raetsel.php:43
+msgid "Hero's Compass Waypoint"
+msgstr "Wegmarke des Helden"
+
+#: arne_raetsel.php:43
+msgid "Legends Waypoint"
+msgstr "Halle der Legenden"
+
+#: arne_raetsel.php:43
+msgid "Might and Main Waypoint"
+msgstr "Wegmarke des Platzes der Macht"
+
+#: arne_raetsel.php:43
+msgid "Peeta's Waypoint"
+msgstr "Peetas Wegmarke"
+
+#: arne_raetsel.php:43
+msgid "Raven Waypoint"
+msgstr "Wegmarke des Raben"
+
+#: arne_raetsel.php:43
+msgid "Shelter Rock Waypoint"
+msgstr "Zufluchtsfelsen"
+
+#: arne_raetsel.php:43
+msgid "Snow Leopard Waypoint"
+msgstr "Wegmarke der Schneeleopardin"
+
+#: arne_raetsel.php:43
+msgid "Southern Watchpost Waypoint"
+msgstr "Südlicher Wachposten"
+
+#: arne_raetsel.php:43
+msgid "Trade Commons Waypoint"
+msgstr "Handelsdistrikt"
+
+#: arne_raetsel.php:43
+msgid "Upper Balcony Waypoint"
+msgstr "Oberer Balkon"
+
+#: arne_raetsel.php:43
+msgid "Wolf Waypoint"
+msgstr "Wegmarke des Wolfs"
+
+#: arne_raetsel.php:44
+msgid "Iron Marches"
+msgstr "Eisenmark"
+
+#: arne_raetsel.php:44
+msgid "Bloodfin Lake Waypoint"
+msgstr "Blutflossen-See"
+
+#: arne_raetsel.php:44
+msgid "Brandwatch Encampment Waypoint"
+msgstr "Feuerwachtlager (im mittleren Drittel)"
+
+#: arne_raetsel.php:44
+msgid "Bulwark Waypoint"
+msgstr "Westliches Bollwerk"
+
+#: arne_raetsel.php:44
+msgid "Dewclaw Waypoint"
+msgstr "Taukrallendorf"
+
+#: arne_raetsel.php:44
+msgid "Firewatch Encampment Waypoint"
+msgstr "Feuerwachtlager (im oberen Drittel)"
+
+#: arne_raetsel.php:44
+msgid "Gladefall Waypoint"
+msgstr "Waldwiesenbach"
+
+#: arne_raetsel.php:44
+msgid "Grostogg's Kraal Waypoint"
+msgstr "Grostoggs Kral"
+
+#: arne_raetsel.php:44
+msgid "Hellion Waypoint"
+msgstr "Hellion-Wald"
+
+#: arne_raetsel.php:44
+msgid "Old Piken Ruins Waypoint"
+msgstr "Alte Pikenruinen"
+
+#: arne_raetsel.php:44
+msgid "Sleekfur Encampment Waypoint"
+msgstr "Glanzfell-Lager"
+
+#: arne_raetsel.php:44
+msgid "Town of Cowlfang's Star Waypoint"
+msgstr "Haubenfangs Stern"
+
+#: arne_raetsel.php:44
+msgid "Village of Scalecatch Waypoint"
+msgstr "Dorf Schuppenfang"
+
+#: arne_raetsel.php:44
+msgid "Viper's Run Waypoint"
+msgstr "Vipernstrecke"
+
+#: arne_raetsel.php:44
+msgid "Warhound Village Waypoint"
+msgstr "Kriegshunddorf"
+
+#: arne_raetsel.php:45
+msgid "Kessex Hills"
+msgstr "Kessex-Hügel"
+
+#: arne_raetsel.php:45
+msgid "Cavernhold Camp Waypoint"
+msgstr "Höhlengrifflager"
+
+#: arne_raetsel.php:45
+msgid "Cereboth Waypoint"
+msgstr "Cereboth"
+
+#: arne_raetsel.php:45
+msgid "Darkwound Waypoint"
+msgstr "Dunkelwund-Klause"
+
+#: arne_raetsel.php:45
+msgid "Delanian Waypoint"
+msgstr "Delania"
+
+#: arne_raetsel.php:45
+msgid "Earthworks Camp Waypoint"
+msgstr "Erdbaulager"
+
+#: arne_raetsel.php:45
+msgid "Fort Salma Waypoint"
+msgstr "Fort Salma"
+
+#: arne_raetsel.php:45
+msgid "Gap Waypoint"
+msgstr "Lücke"
+
+#: arne_raetsel.php:45
+msgid "Greyhoof Camp Waypoint"
+msgstr "Grauhuf-Lager"
+
+#: arne_raetsel.php:45
+msgid "Halacon Waypoint"
+msgstr "Halacon"
+
+#: arne_raetsel.php:45
+msgid "Ireko Tradecamp Waypoint"
+msgstr "Ireko-Händlerlager"
+
+#: arne_raetsel.php:45
+msgid "Kessex Haven Waypoint"
+msgstr "Kessex-Hafen"
+
+#: arne_raetsel.php:45
+msgid "Meadows Waypoint"
+msgstr "Auen"
+
+#: arne_raetsel.php:45
+msgid "Moogooloo Waypoint"
+msgstr "Muuguuluu"
+
+#: arne_raetsel.php:45
+msgid "Overlake Haven Waypoint"
+msgstr "Obersee-Freistatt"
+
+#: arne_raetsel.php:45
+msgid "Overlord's Waypoint"
+msgstr "Oberherr"
+
+#: arne_raetsel.php:45
+msgid "Shadowheart Site Waypoint"
+msgstr "Schattenherzgrund"
+
+#: arne_raetsel.php:45
+msgid "Sojourner's Waypoint"
+msgstr "Reisender"
+
+#: arne_raetsel.php:45
+msgid "Viathan Waypoint"
+msgstr "Viathan"
+
+#: arne_raetsel.php:46
+msgid "Lion's Arch"
+msgstr "Löwenstein"
+
+#: arne_raetsel.php:46
+msgid "Bloodcoast Ward Waypoint"
+msgstr "Blutküstenbezirk"
+
+#: arne_raetsel.php:46
+msgid "Canal Ward Waypoint"
+msgstr "Kanalbezirk"
+
+#: arne_raetsel.php:46
+msgid "Claw Island Portage Waypoint"
+msgstr "Klaueninsel-Portage"
+
+#: arne_raetsel.php:46
+msgid "Diverse Ledges Waypoint"
+msgstr "Verschiedene Vorsprünge"
+
+#: arne_raetsel.php:46
+msgid "Eastern Ward Waypoint"
+msgstr "östlicher Bezirk"
+
+#: arne_raetsel.php:46
+msgid "Farshore Waypoint"
+msgstr "Weitschuss"
+
+#: arne_raetsel.php:46
+msgid "Fort Marriner Waypoint"
+msgstr "Fort Marriner"
+
+#: arne_raetsel.php:46
+msgid "Gate Hub Plaza Waypoint"
+msgstr "Torknotenpunkt-Platz"
+
+#: arne_raetsel.php:46
+msgid "Lion's Shadow Inn Waypoint"
+msgstr "Gasthaus Löwenschatten"
+
+#: arne_raetsel.php:46
+msgid "Sanctum Harbor Waypoint"
+msgstr "Sanctum-Hafen"
+
+#: arne_raetsel.php:46
+msgid "Smuggler's Waypoint"
+msgstr "Wegmarke des Schmugglers"
+
+#: arne_raetsel.php:46
+msgid "Trader's Forum Waypoint"
+msgstr "Händlerforum"
+
+#: arne_raetsel.php:46
+msgid "Western Ward Waypoint"
+msgstr "westlicher Bezirk"
+
+#: arne_raetsel.php:47
+msgid "Lornar's Pass"
+msgstr "Lornars Pass"
+
+#: arne_raetsel.php:47
+msgid "Afgar's Waypoint"
+msgstr "Afgars Gehöft"
+
+#: arne_raetsel.php:47
+msgid "Cascade Bridge Waypoint"
+msgstr "Kaskadenbrücke"
+
+#: arne_raetsel.php:47
+msgid "Demon's Maw Waypoint"
+msgstr "Dämonenschlund"
+
+#: arne_raetsel.php:47
+msgid "Durmand Priory Waypoint"
+msgstr "Abtei Durmand"
+
+#: arne_raetsel.php:47
+msgid "False Lake Waypoint"
+msgstr "Falschsee"
+
+#: arne_raetsel.php:47
+msgid "Guutra's Homestead Waypoint"
+msgstr "Guutras Heimstatt"
+
+#: arne_raetsel.php:47
+msgid "Icedevil's Waypoint"
+msgstr "Eisteufel"
+
+#: arne_raetsel.php:47
+msgid "Lamentation Waypoint"
+msgstr "See der Wehklagen"
+
+#: arne_raetsel.php:47
+msgid "Mistriven Waypoint"
+msgstr "Nebelriss-Klamm"
+
+#: arne_raetsel.php:47
+msgid "Nentor Waypoint"
+msgstr "Nentor"
+
+#: arne_raetsel.php:47
+msgid "Pinnacle Enclave Waypoint"
+msgstr "Gipfelenklave"
+
+#: arne_raetsel.php:47
+msgid "Refuge Peak Waypoint"
+msgstr "Zufluchtgipfel"
+
+#: arne_raetsel.php:47
+msgid "Stonescatter Waypoint"
+msgstr "Steinstreu"
+
+#: arne_raetsel.php:47
+msgid "Thunderhorns Waypoint"
+msgstr "Donnerhörner"
+
+#: arne_raetsel.php:47
+msgid "Vanjir's Stead Waypoint"
+msgstr "Vanjirs Hof"
+
+#: arne_raetsel.php:47
+msgid "Winterthaw Waypoint"
+msgstr "Wintertau-Schneefeld"
+
+#: arne_raetsel.php:48
+msgid "Malchor's Leap"
+msgstr "Malchors Sprung"
+
+#: arne_raetsel.php:48
+msgid "Blighted Arch Waypoint"
+msgstr "Pestbogen"
+
+#: arne_raetsel.php:48
+msgid "Colonnade Waypoint"
+msgstr "Säulengang"
+
+#: arne_raetsel.php:48
+msgid "Doric's Waypoint"
+msgstr "Wegmarke Dorics"
+
+#: arne_raetsel.php:48
+msgid "Lights Waypoint"
+msgstr "Platz"
+
+#: arne_raetsel.php:48
+msgid "Murmur Waypoint"
+msgstr "Wisper"
+
+#: arne_raetsel.php:48
+msgid "Pagga's Waypoint"
+msgstr "Pagga"
+
+#: arne_raetsel.php:48
+msgid "Tempest Waypoint"
+msgstr "Gezeiten"
+
+#: arne_raetsel.php:48
+msgid "Union Waypoint"
+msgstr "Vereinigung"
+
+#: arne_raetsel.php:48
+msgid "Valley of Lyss Waypoint"
+msgstr "Tal der Lyss"
+
+#: arne_raetsel.php:48
+msgid "Versoconjouring Waypoint"
+msgstr "Gegenzauber"
+
+#: arne_raetsel.php:48
+msgid "Waste Hollows Waypoint"
+msgstr "Ödtiefen"
+
+#: arne_raetsel.php:48
+msgid "Wren Waypoint"
+msgstr "Wren"
+
+#: arne_raetsel.php:49
+msgid "Metrica Province"
+msgstr "Provinz Metrica"
+
+#: arne_raetsel.php:49
+msgid "Akk Wilds Waypoint"
+msgstr "Akk-Wildnis"
+
+#: arne_raetsel.php:49
+msgid "Anthill Waypoint"
+msgstr "Ameisenhügel"
+
+#: arne_raetsel.php:49
+msgid "Artergon Waypoint"
+msgstr "Artergon"
+
+#: arne_raetsel.php:49
+msgid "Arterium Haven Waypoint"
+msgstr "Arterium-Freistatt"
+
+#: arne_raetsel.php:49
+msgid "Cuatl Waypoint"
+msgstr "Cuatl"
+
+#: arne_raetsel.php:49
+msgid "Desider Atum Waypoint"
+msgstr "Desider Atum"
+
+#: arne_raetsel.php:49
+msgid "Hexane Regrade Waypoint"
+msgstr "Hexan-Neueinstufung"
+
+#: arne_raetsel.php:49
+msgid "Hydrone Unit Waypoint"
+msgstr "Hydron-Einheit"
+
+#: arne_raetsel.php:49
+msgid "Jeztar Falls Waypoint"
+msgstr "Jeztar-Fälle"
+
+#: arne_raetsel.php:49
+msgid "Loch Waypoint"
+msgstr "Loch"
+
+#: arne_raetsel.php:49
+msgid "Michotl Grounds Waypoint"
+msgstr "Michotl-Gründe"
+
+#: arne_raetsel.php:49
+msgid "Muridian Waypoint"
+msgstr "Muridianisches Hochland"
+
+#: arne_raetsel.php:49
+msgid "Old Golem Factory Waypoint"
+msgstr "Alte Golemfabrik"
+
+#: arne_raetsel.php:49
+msgid "Rana Landing Complex Waypoint"
+msgstr "Rana-Anlegestellenkomplex"
+
+#: arne_raetsel.php:49
+msgid "Soren Draa Waypoint"
+msgstr "Soren Draa"
+
+#: arne_raetsel.php:49
+msgid "Survivor's Encampment Waypoint"
+msgstr "Überlebendenlager"
+
+#: arne_raetsel.php:50
+msgid "Mount Maelstrom"
+msgstr "Mahlstromgipfel"
+
+#: arne_raetsel.php:50
+msgid "Ashen Waypoint"
+msgstr "Äschern"
+
+#: arne_raetsel.php:50
+msgid "Avernan Waypoint"
+msgstr "Avernan"
+
+#: arne_raetsel.php:50
+msgid "Bard's Waypoint"
+msgstr "Wegmarke des Barden"
+
+#: arne_raetsel.php:50
+msgid "Broken Arrow Waypoint"
+msgstr "Zerbrochener Pfeil"
+
+#: arne_raetsel.php:50
+msgid "Criterion Waypoint"
+msgstr "Maßstab"
+
+#: arne_raetsel.php:50
+msgid "Crucible of Eternity Waypoint"
+msgstr "Schmelztiegel der Ewigkeit"
+
+#: arne_raetsel.php:50
+msgid "Firebreak Fort Waypoint"
+msgstr "Feuerbruchfort"
+
+#: arne_raetsel.php:50
+msgid "Gauntlet Waypoint"
+msgstr "Spießroutenluf"
+
+#: arne_raetsel.php:50
+msgid "Govoran Waypoint"
+msgstr "Govoran"
+
+#: arne_raetsel.php:50
+msgid "Irwin Isle Waypoint"
+msgstr "Irwin-Insel"
+
+#: arne_raetsel.php:50
+msgid "Judgement Waypoint"
+msgstr "Urteil"
+
+#: arne_raetsel.php:50
+msgid "Maelstrom's Waypoint"
+msgstr "Strudel"
+
+#: arne_raetsel.php:50
+msgid "Magmatic Waypoint"
+msgstr "Magmatisch"
+
+#: arne_raetsel.php:50
+msgid "Murkvale Waypoint"
+msgstr "Finstertal"
+
+#: arne_raetsel.php:50
+msgid "Old Sledge Site Waypoint"
+msgstr "alter Hammergrund"
+
+#: arne_raetsel.php:50
+msgid "Oxbow Isle Waypoint"
+msgstr "Ochsenjoch-Insel"
+
+#: arne_raetsel.php:50
+msgid "Spaecia Illogica Waypoint"
+msgstr "Spaecia Illogica"
+
+#: arne_raetsel.php:51
+msgid "Plains of Ashford"
+msgstr "Ebenen von Aschfurt"
+
+#: arne_raetsel.php:51
+msgid "Adorea Waypoint"
+msgstr "Adorea"
+
+#: arne_raetsel.php:51
+msgid "Ascalon City Waypoint"
+msgstr "Stadt Ascalon"
+
+#: arne_raetsel.php:51
+msgid "Ascalonian Catacombs Waypoint"
+msgstr "Katakomben von Ascalon"
+
+#: arne_raetsel.php:51
+msgid "Ashford Waypoint"
+msgstr "Aschfurt"
+
+#: arne_raetsel.php:51
+msgid "Duskrend Overlook Waypoint"
+msgstr "Dämmerspalt-Ausblick"
+
+#: arne_raetsel.php:51
+msgid "Feritas Waypoint"
+msgstr "Feritas-See"
+
+#: arne_raetsel.php:51
+msgid "Greysteel Armory Waypoint"
+msgstr "Graustahl-Waffenkammer"
+
+#: arne_raetsel.php:51
+msgid "Guardpoint Decimus Waypoint"
+msgstr "Decimus Wachpunkt"
+
+#: arne_raetsel.php:51
+msgid "Irondock Shipyard Waypoint"
+msgstr "Eisendock-Werft"
+
+#: arne_raetsel.php:51
+msgid "Langmar Estate Waypoint"
+msgstr "Anwesen der Langmar"
+
+#: arne_raetsel.php:51
+msgid "Loreclaw Waypoint"
+msgstr "Sagenklauen-Weite"
+
+#: arne_raetsel.php:51
+msgid "Martyr's Waypoint"
+msgstr "Märtyrer"
+
+#: arne_raetsel.php:51
+msgid "Phasmatis Waypoint"
+msgstr "Phasmatis"
+
+#: arne_raetsel.php:51
+msgid "Smokestead Waypoint"
+msgstr "Rauchheim"
+
+#: arne_raetsel.php:51
+msgid "Spirit Hunter Camp Waypoint"
+msgstr "Geistjäger-Lager"
+
+#: arne_raetsel.php:51
+msgid "Temperus Point Waypoint"
+msgstr "Temperusspitze"
+
+#: arne_raetsel.php:51
+msgid "Vault Waypoint"
+msgstr "Gewölbe"
+
+#: arne_raetsel.php:51
+msgid "Vir's Gate Waypoint"
+msgstr "Virs Tor"
+
+#: arne_raetsel.php:51
+msgid "Watchcrag Tower Waypoint"
+msgstr "Wächterfels-Turm"
+
+#: arne_raetsel.php:52
+msgid "Queensdale"
+msgstr "Königintal"
+
+#: arne_raetsel.php:52
+msgid "Beetletun Waypoint"
+msgstr "Beetletun"
+
+#: arne_raetsel.php:52
+msgid "Claypool Waypoint"
+msgstr "Tonteich"
+
+#: arne_raetsel.php:52
+msgid "Crossing Waypoint"
+msgstr "Kreuzung"
+
+#: arne_raetsel.php:52
+msgid "Fields Waypoint"
+msgstr "Felder"
+
+#: arne_raetsel.php:52
+msgid "Garrison Waypoint"
+msgstr "Festung"
+
+#: arne_raetsel.php:52
+msgid "Godslost Waypoint"
+msgstr "Gottloser Sumpf"
+
+#: arne_raetsel.php:52
+msgid "Heartwood Pass Camp Waypoint"
+msgstr "Herzholzpass-Lager"
+
+#: arne_raetsel.php:52
+msgid "Krytan Waypoint"
+msgstr "Kryta"
+
+#: arne_raetsel.php:52
+msgid "Ojon's Lumbermill Waypoint"
+msgstr "Ojon"
+
+#: arne_raetsel.php:52
+msgid "Orchard Waypoint"
+msgstr "Obstgarten"
+
+#: arne_raetsel.php:52
+msgid "Phinney Waypoint"
+msgstr "Phinney"
+
+#: arne_raetsel.php:52
+msgid "Scaver Waypoint"
+msgstr "Schnorrer"
+
+#: arne_raetsel.php:52
+msgid "Shaemoor Waypoint"
+msgstr "Shaemoor"
+
+#: arne_raetsel.php:52
+msgid "Swamplost Haven Waypoint"
+msgstr "Sumpfhafen"
+
+#: arne_raetsel.php:52
+msgid "Tunwatch Redoubt Waypoint"
+msgstr "Tunwacht"
+
+#: arne_raetsel.php:52
+msgid "Vale Waypoint"
+msgstr "Tal"
+
+#: arne_raetsel.php:53
+msgid "Rata Sum"
+msgstr "Rata Sum"
+
+#: arne_raetsel.php:53
+msgid "Accountancy Waypoint"
+msgstr "Buchhaltung"
+
+#: arne_raetsel.php:53
+msgid "Apprentice Waypoint"
+msgstr "Lehrling"
+
+#: arne_raetsel.php:53
+msgid "Auxiliary Waypoint"
+msgstr "Zusätzliche Studierräume"
+
+#: arne_raetsel.php:53
+msgid "Incubation Waypoint"
+msgstr "Inkubator"
+
+#: arne_raetsel.php:53
+msgid "Magicat Court Waypoint"
+msgstr "Magicat-Hof"
+
+#: arne_raetsel.php:53
+msgid "Magustan Court Waypoint"
+msgstr "Magustan-Hof"
+
+#: arne_raetsel.php:53
+msgid "Metrical Court Waypoint"
+msgstr "Metrischer Hof"
+
+#: arne_raetsel.php:53
+msgid "Port Waypoint"
+msgstr "Hafen"
+
+#: arne_raetsel.php:53
+msgid "Research Waypoint"
+msgstr "Forschung"
+
+#: arne_raetsel.php:54
+msgid "Snowden Drifts"
+msgstr "Schneekuhlenhöhen"
+
+#: arne_raetsel.php:54
+msgid "Exile Waypoint"
+msgstr "Exil"
+
+#: arne_raetsel.php:54
+msgid "Frozen Sweeps Waypoint"
+msgstr "Frostwehe"
+
+#: arne_raetsel.php:54
+msgid "Highpass Haven Waypoint"
+msgstr "Hochpasshafen"
+
+#: arne_raetsel.php:54
+msgid "Isenfall Waypoint"
+msgstr "Isenfall-Schneide"
+
+#: arne_raetsel.php:54
+msgid "Lornar's Waypoint"
+msgstr "Lornar"
+
+#: arne_raetsel.php:54
+msgid "Lost Child's Waypoint"
+msgstr "Die Leiden des verirrten Kindes"
+
+#: arne_raetsel.php:54
+msgid "Njordstead Waypoint"
+msgstr "Njordhof"
+
+#: arne_raetsel.php:54
+msgid "Owl Waypoint"
+msgstr "Eulenhütte"
+
+#: arne_raetsel.php:54
+msgid "Podaga Waypoint"
+msgstr "Padaga-Gehöft"
+
+#: arne_raetsel.php:54
+msgid "Reaver's Waypoint"
+msgstr "Reißertal"
+
+#: arne_raetsel.php:54
+msgid "Scholar's Waypoint"
+msgstr "Gelehrtenkluft"
+
+#: arne_raetsel.php:54
+msgid "Seraph Outriders' Waypoint"
+msgstr "Seraphen-Vorreiter"
+
+#: arne_raetsel.php:54
+msgid "Skradden Waypoint"
+msgstr "Skradden"
+
+#: arne_raetsel.php:54
+msgid "Snowdrift Waypoint"
+msgstr "Schneeweh-Freistatt"
+
+#: arne_raetsel.php:54
+msgid "Snowhawk Landing Waypoint"
+msgstr "Anlegestelle des Schneefalken"
+
+#: arne_raetsel.php:54
+msgid "Soderhem Steading Waypoint"
+msgstr "Soderhem-Gehöft"
+
+#: arne_raetsel.php:54
+msgid "Torstvedt Homestead Waypoint"
+msgstr "Torstvedt-Gehöft"
+
+#: arne_raetsel.php:54
+msgid "Valslake Waypoint"
+msgstr "Valssee"
+
+#: arne_raetsel.php:54
+msgid "Angvar's Trove"
+msgstr "Angvars Schatzkammer"
+
+#: arne_raetsel.php:55
+msgid "Southsun Cove"
+msgstr "Südlicht-Bucht"
+
+#: arne_raetsel.php:55
+msgid "Camp Karka Waypoint"
+msgstr "Karka-Lager"
+
+#: arne_raetsel.php:55
+msgid "Kiel's Outpost Waypoint"
+msgstr "Kiels Außenposten"
+
+#: arne_raetsel.php:55
+msgid "Lion Point Waypoint"
+msgstr "Löwenpunkt"
+
+#: arne_raetsel.php:55
+msgid "Owain's Refuge Waypoint"
+msgstr "Owains Zuflucht"
+
+#: arne_raetsel.php:55
+msgid "Pearl Islet Waypoint"
+msgstr "Perlen-Inselchen"
+
+#: arne_raetsel.php:55
+msgid "Pride Point Waypoint"
+msgstr "Stolzpunkt"
+
+#: arne_raetsel.php:56
+msgid "Sparkfly Fen"
+msgstr "Funkenschwärmersumpf"
+
+#: arne_raetsel.php:56
+msgid "Aleem's Waypoint"
+msgstr "Aleems Buße"
+
+#: arne_raetsel.php:56
+msgid "Brackwater Waypoint"
+msgstr "Brackwasser"
+
+#: arne_raetsel.php:56
+msgid "Braggi's Stead Waypoint"
+msgstr "Braggis Heimstätte"
+
+#: arne_raetsel.php:56
+msgid "Brooloonu Waypoint"
+msgstr "Brooloonu"
+
+#: arne_raetsel.php:56
+msgid "Caer Brier Waypoint"
+msgstr "Kastell Dornenstrauch"
+
+#: arne_raetsel.php:56
+msgid "Darkweather Waypoint"
+msgstr "Dunkelwitterung"
+
+#: arne_raetsel.php:56
+msgid "Dryground Waypoint"
+msgstr "Trockengrund"
+
+#: arne_raetsel.php:56
+msgid "Flamefrog Waypoint"
+msgstr "Flammenfrosch"
+
+#: arne_raetsel.php:56
+msgid "Fort Cadence Waypoint"
+msgstr "Fort Gleichschritt"
+
+#: arne_raetsel.php:56
+msgid "Forvar's Waypoint"
+msgstr "Forvars Anlegestelle"
+
+#: arne_raetsel.php:56
+msgid "Mire Waypoint"
+msgstr "Morast"
+
+#: arne_raetsel.php:56
+msgid "Ocean's Gullet Waypoint"
+msgstr "Ozeanschlund"
+
+#: arne_raetsel.php:56
+msgid "Orvar's Glen Waypoint"
+msgstr "Orvars Schlucht"
+
+#: arne_raetsel.php:56
+msgid "Saltflood Waypoint"
+msgstr "Salzflut-Morast"
+
+#: arne_raetsel.php:56
+msgid "Splintered Coast Waypoint"
+msgstr "Splitterküste"
+
+#: arne_raetsel.php:56
+msgid "Toade's Head Waypoint"
+msgstr "Toades Kopf"
+
+#: arne_raetsel.php:56
+msgid "Zintl Holy Grounds Waypoint"
+msgstr "Zintl-Heiligtum"
+
+#: arne_raetsel.php:57
+msgid "Straits of Devastation"
+msgstr "Meerenge der Verwüstung"
+
+#: arne_raetsel.php:57
+msgid "Bramble Pass Waypoint"
+msgstr "Dornen-Pass"
+
+#: arne_raetsel.php:57
+msgid "Brassclaw Waypoint"
+msgstr "Anlegestellte Messingklaue"
+
+#: arne_raetsel.php:57
+msgid "Broken Spit Waypoint"
+msgstr "Geknickte Landzunge"
+
+#: arne_raetsel.php:57
+msgid "Conquest Marina Waypoint"
+msgstr "Eroberungs-Jachthafen"
+
+#: arne_raetsel.php:57
+msgid "Dire Shoal Waypoint"
+msgstr "Dämonische Untiefe"
+
+#: arne_raetsel.php:57
+msgid "Fort Trinity Waypoint"
+msgstr "Fort der Dreifaltigkeit"
+
+#: arne_raetsel.php:57
+msgid "Glorious Victory Waypoint"
+msgstr "rumreicher Sieg"
+
+#: arne_raetsel.php:57
+msgid "Lone Post Waypoint"
+msgstr "verlassener Posten"
+
+#: arne_raetsel.php:57
+msgid "Plinth Timberland Waypoint"
+msgstr "Sockel-Waldland"
+
+#: arne_raetsel.php:57
+msgid "Rally Waypoint"
+msgstr "Sammelpunkt"
+
+#: arne_raetsel.php:57
+msgid "Royal Forum Waypoint"
+msgstr "Der royale Markt"
+
+#: arne_raetsel.php:57
+msgid "Sentry Waypoint"
+msgstr "Wächtersteppen"
+
+#: arne_raetsel.php:57
+msgid "Signal Peak Waypoint"
+msgstr "Signalgipfel"
+
+#: arne_raetsel.php:57
+msgid "Thorn Pass Waypoint"
+msgstr "Dornenpass"
+
+#: arne_raetsel.php:57
+msgid "Thunderhead Waypoint"
+msgstr "Donnerkopfmühle"
+
+#: arne_raetsel.php:57
+msgid "Tughra Waypoint"
+msgstr "Tughra"
+
+#: arne_raetsel.php:57
+msgid "Underbelly Waypoint"
+msgstr "Schattenseite"
+
+#: arne_raetsel.php:57
+msgid "Vesper Bell Waypoint"
+msgstr "Die Abendsternglocke"
+
+#: arne_raetsel.php:57
+msgid "Waywarde Waypoint"
+msgstr "Abwege"
+
+#: arne_raetsel.php:57
+msgid "Xenarius Waypoint"
+msgstr "Xenarius"
+
+#: arne_raetsel.php:58
+msgid "The Grove"
+msgstr "Der Hain"
+
+#: arne_raetsel.php:58
+msgid "Caledon Waypoint"
+msgstr "Caledon"
+
+#: arne_raetsel.php:58
+msgid "Reckoner's Waypoint"
+msgstr "Rechenmeister"
+
+#: arne_raetsel.php:58
+msgid "Ronan's Waypoint"
+msgstr "Ronan"
+
+#: arne_raetsel.php:58
+msgid "Upper Commons Waypoint"
+msgstr "Obere Distrikte"
+
+#: arne_raetsel.php:59
+msgid "Timberline Falls"
+msgstr "Baumgrenzen-Fälle"
+
+#: arne_raetsel.php:59
+msgid "Coil Waypoint"
+msgstr "Höhle der Windung"
+
+#: arne_raetsel.php:59
+msgid "Concordia Waypoint"
+msgstr "Concordia"
+
+#: arne_raetsel.php:59
+msgid "Eztlitl Grounds Waypoint"
+msgstr "Eztlitl-Gründe"
+
+#: arne_raetsel.php:59
+msgid "Foundation 86 Waypoint"
+msgstr "Fundament 86"
+
+#: arne_raetsel.php:59
+msgid "Gentle River Waypoint"
+msgstr "Sanftfluss"
+
+#: arne_raetsel.php:59
+msgid "Gyre Rapids Waypoint"
+msgstr "Wirbelschnellen"
+
+#: arne_raetsel.php:59
+msgid "Iron Veil Waypoint"
+msgstr "Eiserner Schleier"
+
+#: arne_raetsel.php:59
+msgid "Krongar Waypoint"
+msgstr "Krongar-Pass"
+
+#: arne_raetsel.php:59
+msgid "Nonmoa Waypoint"
+msgstr "Nonmoa-See"
+
+#: arne_raetsel.php:59
+msgid "Ogduk Waypoint"
+msgstr "Ogduk"
+
+#: arne_raetsel.php:59
+msgid "Okarinoo Waypoint"
+msgstr "Okarinoo"
+
+#: arne_raetsel.php:59
+msgid "Rankor Ruins Waypoint"
+msgstr "Rankor-Ruinen"
+
+#: arne_raetsel.php:59
+msgid "Serpent Waypoint"
+msgstr "Schlangensteine"
+
+#: arne_raetsel.php:59
+msgid "Skale Strand Waypoint"
+msgstr "Schuppenstrand"
+
+#: arne_raetsel.php:59
+msgid "Stormkarl Waypoint"
+msgstr "Stromkarl"
+
+#: arne_raetsel.php:59
+msgid "Talus Waypoint"
+msgstr "Talas-Wassersturz"
+
+#: arne_raetsel.php:59
+msgid "Thistlereed Waypoint"
+msgstr "Dornschilfhain"
+
+#: arne_raetsel.php:59
+msgid "Valance Tutory Waypoint"
+msgstr "Vorsprunghut"
+
+#: arne_raetsel.php:59
+msgid "White Paper Waypoint"
+msgstr "Weißpapierhügel"
+
+#: arne_raetsel.php:60
+msgid "Wayfarer Foothills"
+msgstr "Wanderer-Hügel"
+
+#: arne_raetsel.php:60
+msgid "Crossroads Waypoint"
+msgstr "Kreuzungs-Freistatt"
+
+#: arne_raetsel.php:60
+msgid "Darkriven Waypoint"
+msgstr "Dunkelfluss-Klippen"
+
+#: arne_raetsel.php:60
+msgid "Dawnrise Waypoint"
+msgstr "Dämmerstieg-Pass"
+
+#: arne_raetsel.php:60
+msgid "Dolyak Pass Waypoint"
+msgstr "Dolyak-Pass"
+
+#: arne_raetsel.php:60
+msgid "Grawlenfjord Waypoint"
+msgstr "Grawlenfjord"
+
+#: arne_raetsel.php:60
+msgid "Halvaunt Waypoint"
+msgstr "Halvaunt"
+
+#: arne_raetsel.php:60
+msgid "Hero's Moot Waypoint"
+msgstr "Helden-Bierrat"
+
+#: arne_raetsel.php:60
+msgid "Horncall Waypoint"
+msgstr "Hornruf-Krause"
+
+#: arne_raetsel.php:60
+msgid "Krennak's Homestead"
+msgstr "Krennaks Gehöft"
+
+#: arne_raetsel.php:60
+msgid "Lostvyrm Waypoint"
+msgstr "Findwurm-Höhle"
+
+#: arne_raetsel.php:60
+msgid "Osenfold Waypoint"
+msgstr "Osenfold-Schneide"
+
+#: arne_raetsel.php:60
+msgid "Outcast's Waypoint"
+msgstr "Geächtetenkluft"
+
+#: arne_raetsel.php:60
+msgid "Solitude Waypoint"
+msgstr "Ödtal"
+
+#: arne_raetsel.php:60
+msgid "Taigan Waypoint"
+msgstr "Taigan-Hain"
+
+#: arne_raetsel.php:60
+msgid "Twinspur Haven Waypoint"
+msgstr "Doppelsporn-Freistatt"
+
+#: arne_raetsel.php:60
+msgid "Vendrake's Homestead Waypoint"
+msgstr "Vendrakes Gehöft"
+
+#: arne_raetsel.php:60
+msgid "Zelechor Hot Springs Waypoint"
+msgstr "Zelechor-Thermalbad"
+
+#: arne_raetsel.php:68
+msgid "GW2-Screenshotriddle-Settings"
+msgstr "GW2-Screenshoträtsel-Einstellungen"
+
+#: arne_raetsel.php:68
+msgid "GW2-Screenshotriddle"
+msgstr "GW2-Screenshoträtsel"
+
+#: arne_raetsel.php:133
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Du hast nicht ausreichend Rechte, um diese Seite aufzurufen."
+
+#: arne_raetsel.php:148
+msgid "Guild-Wars-2-Screenshotriddle"
+msgstr "Guild-Wars-2-Screenshoträtsel"
+
+#: arne_raetsel.php:162
+msgid "%s cancels actual round. %s should upload a new picture."
+msgstr ""
+"%s bricht die aktuelle Runde ab. %s sollte nun ein neues Bild hochladen."
+
+#: arne_raetsel.php:166 arne_raetsel.php:189 arne_raetsel.php:207
+#: arne_raetsel.php:239 arne_raetsel.php:254 arne_raetsel.php:355
+#: arne_raetsel.php:548 arne_raetsel.php:607 arne_raetsel.php:693
+msgid "Guild Riddle"
+msgstr "Gildenrätsel"
+
+#: arne_raetsel.php:185
+msgid "%s cancels actual round and asks %s to upload the next picture."
+msgstr ""
+"%s bricht die aktuelle Runde ab und bittet %s, das nächste Bild hochladen."
+
+#: arne_raetsel.php:203
+msgid "%s removes %s from the highscore table."
+msgstr "%s entfernt %s aus den Highscores."
+
+#: arne_raetsel.php:235
+msgid "%s starts a new round."
+msgstr "%s  startet eine neue Runde."
+
+#: arne_raetsel.php:250
+msgid "%s sets the target points to %d"
+msgstr "%s setzt die Zielpunktzahl auf %d."
+
+#: arne_raetsel.php:285
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: arne_raetsel.php:286
+msgid "The riddle can be embedded with %s. A detailed explaination with %s."
+msgstr ""
+"Das Rätselspiel kann mit %s eingefügt werden. Eine ausführliche Anleitung "
+"mit %s."
+
+#: arne_raetsel.php:287
+msgid "Gamemanagement"
+msgstr "Spielmanagement"
+
+#: arne_raetsel.php:288
+msgid "Reset Actual Round"
+msgstr "Zurücksetzen der aktuellen Runde"
+
+#: arne_raetsel.php:289
+msgid ""
+"A player uploaded an inappropriate picture. Stop the actual round, nobody "
+"earns points. The according player has to upload a new picture."
+msgstr ""
+"Ein Spieler hat ein unpassendes Bild hochgeladen. Stoppe die aktuelle Runde, "
+"niemand erhält Punkte. Der Uploader muss ein neues Bild hochladen."
+
+#: arne_raetsel.php:290
+msgid "Reset round"
+msgstr "Runde zurücksetzen"
+
+#: arne_raetsel.php:294
+msgid "Change Uploader"
+msgstr "Ändere Uploader"
+
+#: arne_raetsel.php:295
+msgid ""
+"You want another player to start the next round. Cancels actual round, "
+"nobody earns points and the selected player has to upload a new picture."
+msgstr ""
+"Du möchtest, dass ein anderer Spieler die nächste Runde startet. Beendet die "
+"aktuelle Runde, niemand erhält Punkte und der ausgewählte Spieler muss ein "
+"neues Bild hochladen."
+
+#: arne_raetsel.php:306
+msgid "No possible players with rights..."
+msgstr "Keine möglichen Spieler mit Rechten..."
+
+#: arne_raetsel.php:308
+msgid "set as new uploader"
+msgstr "neuen Uploader festlegen"
+
+#: arne_raetsel.php:312
+msgid "Delete Player"
+msgstr "Teilnehmer löschen"
+
+#: arne_raetsel.php:313
+msgid "Selected player will be removed from the highscore table."
+msgstr "Ausgewählter Spieler wird aus der Liste der Highscores entfernt."
+
+#: arne_raetsel.php:322
+msgid "remove player"
+msgstr "Teilnehmer entfernen"
+
+#: arne_raetsel.php:324
+msgid "No players in highscore table..."
+msgstr "Keine Spieler in der Highscoreliste..."
+
+#: arne_raetsel.php:329
+msgid "Start New Round"
+msgstr "Neue Runde starten"
+
+#: arne_raetsel.php:330
+msgid ""
+"Deletes logbook and highscores. After that any player can upload a new "
+"picture. (You can change the uploader after that if you want a specific "
+"player to start the new round.)"
+msgstr ""
+"Löscht das Logbuch und die Highscores. Danach darf ein beliebiger Spieler "
+"ein neues Bild hochladen. (Soll es ein bestimmter Spieler tun, ändere im "
+"Anschluss noch den Uploader.)"
+
+#: arne_raetsel.php:331
+msgid "start new round"
+msgstr "Neue Runde starten"
+
+#: arne_raetsel.php:335
+msgid "Main Settings"
+msgstr "Grundeinstellungen"
+
+#: arne_raetsel.php:339
+msgid "Target Points"
+msgstr "Zielpunktzahl"
+
+#: arne_raetsel.php:340
+msgid "When a player reaches at least this amount of points, he wins the game."
+msgstr ""
+"Wenn ein Spieler mindestens diese Punktzahl erreicht hat, hat er das Spiel "
+"gewonnen."
+
+#: arne_raetsel.php:340
+msgid "Default"
+msgstr "Standard"
+
+#: arne_raetsel.php:342
+msgid "set as target points"
+msgstr "Zielpunktzahl festlegen"
+
+#: arne_raetsel.php:346
+msgid "Keep Gallery Of Screenshots"
+msgstr "Galerie der Screenshots aufbewahren"
+
+#: arne_raetsel.php:347
+msgid ""
+"When a riddle is solved the screenshot is copied to a gallery path path."
+msgstr ""
+"Wenn ein Rätsel gelöst wurde, wird das gelöste Bild in einen Galeriepfad "
+"kopiert."
+
+#: arne_raetsel.php:348
+msgid "keep screenshots"
+msgstr "Screenshots in Galeriepfad kopieren"
+
+#: arne_raetsel.php:349
+msgid "save gallery settings"
+msgstr "Galerie-Einstellungen speichern"
+
+#: arne_raetsel.php:353
+msgid "Program Execution"
+msgstr "Programm ausführen"
+
+#: arne_raetsel.php:354
+msgid ""
+"Execute a program when a new entry to the logbook is added. The program gets "
+"the entry in BB-Code as a parameter."
+msgstr ""
+"Führe ein Programm aus, wenn ein neuer Logbucheintrag entsteht. Als "
+"Parameter wird dem Programm automatisch der Logbucheintrag im BB-Code "
+"hinzugefügt."
+
+#: arne_raetsel.php:355
+msgid "Example"
+msgstr "Beispiel"
+
+#: arne_raetsel.php:355
+msgid "Peter earns 10 points for the correct answer!"
+msgstr "Peter ergatterte mit der richtigen Antwort 10 Punkte!"
+
+#: arne_raetsel.php:356
+msgid "Leave field empty to execute no program."
+msgstr "Feld leer lassen, wenn kein Programm ausgeführt werden soll."
+
+#: arne_raetsel.php:358
+msgid "set program"
+msgstr "Programm festlegen"
+
+#: arne_raetsel.php:436
+msgid "Select Waypoint"
+msgstr "Wegmarke auswählen"
+
+#: arne_raetsel.php:525 arne_raetsel.php:700
+msgid "You didn't select a waypoint!"
+msgstr "Du hast keine Wegmarke angegeben!"
+
+#: arne_raetsel.php:539
+msgid "1 point"
+msgid_plural "%s points"
+msgstr[0] "1 Punkt"
+msgstr[1] "%s Punkte"
+
+#. translators: leave '[USER]' and others untranslated, it will be replaced
+#. with actual values
+#: arne_raetsel.php:542
+msgid "[USER] earns with the correct answer [ANSWER] [POINTS]."
+msgstr "[USER] ergattert mit der richtigen Antwort [ANSWER] [POINTS]."
+
+#. translators: leave '[POINTS]' untranslated, it will be replaced with actual
+#. values
+#: arne_raetsel.php:551
+msgid "Yes, correct! You earned [POINTS] for this solution!"
+msgstr "Ja, korrekt! Diese Lösung brachte Dir [POINTS] ein!"
+
+#: arne_raetsel.php:559
+msgid "%s has won the game and asks for payment."
+msgstr "%s hat das Spiel gewonnen und bittet um Auszahlung."
+
+#: arne_raetsel.php:565
+msgid "%s is the next one to upload a new picture."
+msgstr "%s muss als nächstes ein neues Bild hochladen."
+
+#: arne_raetsel.php:597
+msgid ""
+"Meanwhile this waypoint has been guessed and it's not correct. You can try "
+"again now."
+msgstr ""
+"Inzwischen wurde diese Wegmarke bereits getippt und sie ist leider falsch. "
+"Du darfst nun einen weiteren Tipp abgeben."
+
+#: arne_raetsel.php:600
+msgid "Unfortunatley that's not correct!"
+msgstr "Das war leider nicht korrekt!"
+
+#: arne_raetsel.php:604
+msgid "%s is guessing %s but that's not correct."
+msgstr "%s liegt mit %s leider daneben."
+
+#: arne_raetsel.php:613
+msgid "That's not a legitimate waypoint."
+msgstr "Das ist keine legitime Wegmarke."
+
+#: arne_raetsel.php:689
+msgid "%s uploaded a new picture. New round starts tomorrow."
+msgstr "%s hat ein neues Bild hochgeladen. Die neue Runde beginnt morgen."
+
+#: arne_raetsel.php:728
+msgid "Hint"
+msgstr "Hinweis"
+
+#: arne_raetsel.php:745
+msgid "The screenshot was taken in %s."
+msgstr "Der Screenshot wurde in der Zone %s aufgenommen."
+
+#: arne_raetsel.php:752
+msgid "The screenshot was taken in the region %s."
+msgstr "Der Screenshot wurde in der Region %s aufgenommen."
+
+#: arne_raetsel.php:766
+msgid "Select Zone"
+msgstr "Zone auswählen"
+
+#: arne_raetsel.php:787
+msgid ""
+"To participate in this game, you have to be registered to this site and the "
+"administrator must have given you the right to upload files."
+msgstr ""
+"Um an diesem Spiel teilzunehmen, musst Du an dieser Seite angemeldet sein "
+"und vom Administrator mit Uploadrechten ausgestattet worden sein."
+
+#: arne_raetsel.php:790
+msgid "Screenshot"
+msgstr "Screenshot"
+
+#: arne_raetsel.php:792
+msgid "Which waypoint is the nearest to your picture"
+msgstr "Welche Wegmarke liegt Deinem Bild am nächsten"
+
+#: arne_raetsel.php:794
+msgid "Upload picture"
+msgstr "Bild hochladen"
+
+#: arne_raetsel.php:798
+msgid "submit guess"
+msgstr "Tipp abgeben"
+
+#: arne_raetsel.php:801
+msgid "Never played before. Please upload a picture."
+msgstr "Niemals gespielt. Bitte ein Bild hochladen."
+
+#: arne_raetsel.php:806
+msgid ""
+"You have solved the riddle and now you have to upload a picture for the next "
+"round."
+msgstr ""
+"Du hast das Rätsel gelöst und musst nun ein Bild für die neue Runde "
+"hochladen."
+
+#: arne_raetsel.php:810
+msgid ""
+"The game is over. Now everybody has to pay the winner, then the "
+"administrator can start a new round."
+msgstr ""
+"Das Spiel ist beendet. Nun müssen die Spielschulden beglichen werden, dann "
+"kann der Administrator eine neue Runde starten."
+
+#: arne_raetsel.php:813
+msgid ""
+"%s has solved the ridde and has to upload a picture for the next round now."
+msgstr ""
+"%s hat das Rätsel gelöst und muss nun ein Bild für die neue Runde hochladen."
+
+#: arne_raetsel.php:820
+msgid "You created this riddle and cannot participate in this round."
+msgstr ""
+"Du hast das Rätsel erstellt und kannst diese Runde leider nicht mitspielen."
+
+#: arne_raetsel.php:824
+msgid "Select the waypoint nearest to this place."
+msgstr "Gib die Wegmarke an, die diesem Ort am nächsten liegt."
+
+#: arne_raetsel.php:834
+msgid "minute"
+msgstr "Minute"
+
+#: arne_raetsel.php:834
+msgid "minutes"
+msgstr "Minuten"
+
+#: arne_raetsel.php:836
+msgid "hour"
+msgstr "Stunde"
+
+#: arne_raetsel.php:836
+msgid "hours"
+msgstr "Stunden"
+
+#: arne_raetsel.php:838
+msgid "You already made a guess and have to wait %s before the next guess."
+msgstr "Du hast bereits geraten und musst vor Deinem nächsten Tipp %s warten."
+
+#: arne_raetsel.php:844
+msgid ""
+"You already uploaded a new picture, but because the new round hasn't started "
+"yet, you can upload another one."
+msgstr ""
+"Du hast zwar bereits ein neues Bild hochgeladen, da die Runde aber noch "
+"nicht begonnen hat, darfst Du noch ein anderes hochladen."
+
+#: arne_raetsel.php:847
+msgid "A new picutre has been uploaded an the new round starts tomorrow."
+msgstr ""
+"Das neue Rätsel steckt in den Startlöchern, die neue Runde beginnt morgen!"
+
+#: arne_raetsel.php:862
+msgid "Logbook"
+msgstr "Logbuch"
+
+#: arne_raetsel.php:875
+msgid "Highscores"
+msgstr "Highscores"
+
+#: arne_raetsel.php:904
+msgid "Show gallery of prior images"
+msgstr "zeige Galerie der früheren Bilder"
+
+#: arne_raetsel.php:915
+msgid "Gallery"
+msgstr "Galerie"
+
+#: arne_raetsel.php:917 arne_raetsel.php:940
+msgid "Back to the riddle"
+msgstr "zurück zum Rätsel"
+
+#: arne_raetsel.php:947
+msgid "Game"
+msgstr "Spiel"
+
+#: arne_raetsel.php:948
+msgid ""
+"The game works as follows: one player uploads a screenshot. This will be "
+"displayed only covered. Every day one part will be removed so you can see "
+"every day more of the screenshot."
+msgstr ""
+"Grobes Spielgeschehen ist folgendes: ein Gildenmitglied lädt einen "
+"Screenshot hoch. Dieser wird nur verdeckt angezeigt. Jeden Tag öffnet sich "
+"ein weiteres Teil, so dass man jeden Tag mehr von dem Screenshot zu sehen "
+"bekommt."
+
+#: arne_raetsel.php:949
+msgid ""
+"The other players have to guess where the screenshot was taken by selecting "
+"the nearest waypoint. Once a player guessed right he earns points, the more "
+"points the more parts are still covered. So a player can earn between 1 and "
+"17 points. A player can guess every 10 hours at most."
+msgstr ""
+"Die anderen müssen raten, wo dieser Screenshot gemacht wurde, in dem sie die "
+"nächstliegende Wegmarke angeben. Hat ein Spieler richtig geraten, erhält er "
+"Punkte, und zwar umso mehr, je mehr Teile noch verdeckt sind. Somit kann ein "
+"Spieler zwischen 1 und 17 Punkte erlangen. Ein Spieler kann höchstens alle "
+"10 Stunden einen Tipp abgeben."
+
+#: arne_raetsel.php:950
+msgid ""
+"The player who guessed right has to upload the picture for the next round."
+msgstr ""
+"Der Spieler, der in einer Runde korrekt geraten hat, stellt das Bild für die "
+"nächste Runde zur Verfügung."
+
+#: arne_raetsel.php:951
+msgid "The player who reaches %d points first, wins the game."
+msgstr "Der Spieler, der zuerst %d Punkte erreicht, gewinnt."
+
+#: arne_raetsel.php:952
+msgid "Winnings"
+msgstr "Gewinn"
+
+#: arne_raetsel.php:953
+msgid ""
+"Every player who ever guessed counts as participant of the game, even if he "
+"never guessed right. When a player reached at least %d points every "
+"participant has to pay the winner the amount of one gold. So the winnings "
+"are the higher the more players take part."
+msgstr ""
+"Jeder Spieler, der einmal einen Tipp abgegeben hat, gilt als Teilnehmer des "
+"Spieles, auch wenn er niemals richtig geraten hat. Sind alle Runden beendet, "
+"also wenn ein Spieler %d oder mehr Punkte erreicht hat, zahlt jeder "
+"Teilnehmer dem Gewinner den Betrag von 1 Gold. Je mehr Spieler teilnehmen, "
+"desto größer ist entsprechend der Gewinn."
+
+#: arne_raetsel.php:954
+msgid "Take Part"
+msgstr "Mitspielen"
+
+#: arne_raetsel.php:955
+msgid ""
+"You have to be registered to this site and the administrator must give you "
+"the right to upload files."
+msgstr ""
+"Du musst an dieser Seite registriert sein und vom Administrator Uploadrechte "
+"erhalten haben."
+
+#: arne_raetsel.php:956
+msgid "Rules For Screenshots"
+msgstr "Regeln für Screenshots"
+
+#: arne_raetsel.php:957
+msgid ""
+"It's only allowed to take screenshots in not instanciated regions, so not in "
+"dungeons or in the personal story quest and things like that. And of course "
+"a player has to be able to solve the riddle when he sees the whole "
+"screenshot. So just don't make close-ups of daisies or the sky but include "
+"enough of the environment so that the players get enough hints for the "
+"correct solution."
+msgstr ""
+"Screenshots dürfen nur in nicht-instanziierten Gebieten gemacht werden, also "
+"nicht innerhalb von Dungeons oder der persönlichen Story-Quest und "
+"ähnlichem. Und natürlich muss man, wenn man den Screenshot ganz sieht, in "
+"der Lage sein, das Rätsel zu lösen. Also nicht einfach nur ein Gänseblümchen "
+"in Nahaufnahme speichern, sondern ausreichend Umgebung mit einschließen, "
+"dass man genügend Hinweise auf die korrekte Lösung erhält."
+
+#: arne_raetsel.php:958
+msgid "Screenshots"
+msgstr "Screenshots"
+
+#: arne_raetsel.php:959
+msgid ""
+"If you have won a round you have to upload your own screenshot. To do so, "
+"press [Ctrl] + [Shift] + [H] in the game to fade out the interface. This is "
+"important so that nobody can see your minimap and other hints. After that "
+"press [prtscr] (over [ins]) and the screenshot is done. You can find it in "
+"your home directory in the subfolder Documents\\GUILD WARS 2\\Screens. (e. "
+"g. C:\\Users\\Arne\\Documents\\GUILD WARS 2\\Screens) Please do not resize "
+"or convert the images to another format before the upload. Don't forget to "
+"select the nearest waypoint, so the winner can be determined automatically."
+msgstr ""
+"Wenn Du eine Runde gewonnen hast, musst Du einen eigenen Screenshot "
+"hochladen. Um einen solchen zu machen, drücke im Spiel [Strg] + [Umschalt] + "
+"[H], um das Interface auszuschalten. Das ist wichtig, alleine schon um die "
+"Minimap und weitere Hinweise auszublenden. Drücke dann die Taste [druck] "
+"(über [einfg]) und der Screenshot ist gemacht. Du findest den Screenshot "
+"dann in Deinem Verzeichnis (was früher »eigene Dateien« war) im Unterordner "
+"eigene Dokumente\\GUILD WARS 2\\Screens. (Zum Beispiel C:\\Users\\Arne"
+"\\Documents\\GUILD WARS 2\\Screens) Die Screenshots vor dem Upload bitte "
+"nicht mehr verkleinern oder in ein anderes Format umwandeln. Vergiss beim "
+"Upload nicht die Wegmarke in nächster Nähe anzugeben, damit auch automatisch "
+"der Gewinner ermittelt werden kann."
+
+#. Plugin Name of the plugin/theme
+msgid "Arne's GW2-Riddle"
+msgstr "Arnes GW2-Rätsel"
+
+#. Description of the plugin/theme
+msgid ""
+"Users upload screenshots that are partially displayed and other users have "
+"to guess the location where it's taken."
+msgstr ""
+"User laden Screenshots hoch, die nur verdeckt angezeigt werden. Die anderen "
+"versuchen dann zu erraten, wo dieser Screenshot entstanden ist"
+
+#. Author of the plugin/theme
+msgid "Arne"
+msgstr "Arne"
+
+#~ msgid ""
+#~ "When a riddle is solved the screenshot is copied to the given absolute "
+#~ "path."
+#~ msgstr ""
+#~ "Wenn ein Rätsel gelöst wurde, wird das gelöste Bild in den angegebenen "
+#~ "absoluten Pfad kopiert."
+
+#~ msgid "absolute path"
+#~ msgstr "absoluter Pfad"
+
+#~ msgid "Select Time Zone"
+#~ msgstr "Zeitzone wählen"
+
+#~ msgid "Select the time zone in which the times should be displayed."
+#~ msgstr ""
+#~ "Wähle die Zeitzone, in der die Uhrzeitangaben gemacht werden sollen."
+
+#~ msgid "Look here for a list of possible values"
+#~ msgstr "Siehe hier für eine Liste möglicher Werte"
+
+#~ msgid "set time zone"
+#~ msgstr "Zeitzone festlegen"
+
+#~ msgid "%s earns with the correct answer %s %d points."
+#~ msgstr "%s ergattert mit der richtigen Antwort %s %d Punkte."
+
+#~ msgid "Yes, correct! You earned %s points for this solution!"
+#~ msgstr "Ja, korrekt! Diese Lösung brachte Dir %s Punkte ein!"
+
+#~ msgid "R&amp;D Waypoint"
+#~ msgstr "R&D"
